@@ -83,7 +83,7 @@ A través del análisis de los datos, se encontraron varias relaciones important
 
 1. Clona este repositorio:
 
-git clone https://github.com/tu_usuario/idealista_madrid_analysis.git
+git clone https://github.com/pabloesteban2712/Data_Analisis_Madrid
 
 2. Instala las dependencias necesarias:
 
